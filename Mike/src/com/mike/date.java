@@ -8,6 +8,6 @@ public class date {
        Date date = new Date();
         
        // 使用 toString() 函数显示日期时间
-       System.out.println(date.toString());
+       System.out.println("新加日期：" + date.toString());
    }
 }
